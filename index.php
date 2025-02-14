@@ -38,7 +38,9 @@
                         <li><a class="dropdown-item" href="#!">Settings</a></li>
                         <li><a class="dropdown-item" href="#!">Activity Log</a></li>
                         <li><hr class="dropdown-divider" /></li>
-                        <li><a class="dropdown-item" href="logout.php">Logout</a></li>
+                         <li><a class="dropdown-item" href="logout.php">
+                            <i class="fas fa-sign-out-alt"></i>Logout <!-- logout icon added here-->
+                        </a></li>
                     </ul>
                 </li>
             </ul>
